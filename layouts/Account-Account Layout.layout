@@ -45,7 +45,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>John_Hancock__c</field>
+                <field>JohnHancock__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
